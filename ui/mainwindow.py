@@ -28,10 +28,10 @@ class MainWindow(QMainWindow, Ui_MainWindow):
         self.args = args
         self.verbose = self.args.verbose
         self.class_name = self.__class__.__name__
-        log_name = 'sample02.' + self.class_name
+        log_name = 'pyqtguitest.' + self.class_name
         self.module_logger = logging.getLogger(log_name)
         self.module_logger.setLevel(logging.DEBUG)
-        logger_fh = logging.FileHandler('sample02.log')
+        logger_fh = logging.FileHandler('pyqtguitest.log')
         logger_ch = logging.StreamHandler()
         logger_ch.setLevel(logging.INFO)
         # create formatter and add it to the handlers
