@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 
-# Form implementation generated from reading ui file 'C:\Users\Felhasználó\Documents\EricProjects\PyQtGUITest\ui\MainWindow.ui'
+# Form implementation generated from reading ui file 'c:\Users\Felhasználó\Documents\GitHub\PyQtGUITest\ui\MainWindow.ui'
 #
 # Created by: PyQt5 UI code generator 5.11.3
 #
@@ -56,12 +56,19 @@ class Ui_MainWindow(object):
         self.actionAbout.setText(_translate("MainWindow", "About..."))
 
 
-if __name__ == "__main__":
+if __name__ == '__main__':
     import sys
-    app = QtWidgets.QApplication(sys.argv)
-    MainWindow = QtWidgets.QMainWindow()
-    ui = Ui_MainWindow()
-    ui.setupUi(MainWindow)
-    MainWindow.show()
-    sys.exit(app.exec_())
-
+    import os
+    APP = QtWidgets.QApplication(sys.argv)
+    PARENT_PATH = os.path.join(os.path.join(
+        __file__, os.path.pardir), os.path.pardir)
+    DIR_PATH = os.path.abspath(PARENT_PATH)
+    FILE_PATH = os.path.join(DIR_PATH, 'i18n',  'hu.qm')
+    TRANSLATOR = QtCore.QTranslator()
+    TRANSLATOR.load(FILE_PATH)
+    APP.installTranslator(TRANSLATOR)
+    THISWINDOW = QtWidgets.QMainWindow()
+    UI = Ui_MainWindow()
+    UI.setupUi(THISWINDOW)
+    THISWINDOW.show()
+    sys.exit(APP.exec_())

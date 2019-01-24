@@ -1,0 +1,14 @@
+2019-01-24 10:44:57,614 - tlpyuic - DEBUG - Start program
+2019-01-24 10:44:57,615 - tlpyuic - DEBUG - Preview mode: False
+2019-01-24 10:44:57,619 - tlpyuic - DEBUG - Command: Windows>>c:\Python36\Scripts\pyuic5.exe -o c:\Users\Felhasználó\Documents\GitHub\PyQtGUITest\ui/Ui_mainwindow.py c:\Users\Felhasználó\Documents\GitHub\PyQtGUITest\ui\MainWindow.ui
+2019-01-24 10:44:57,828 - tlpyuic - DEBUG - Input: c:\Users\Felhasználó\Documents\GitHub\PyQtGUITest\ui\MainWindow.ui
+2019-01-24 10:44:57,828 - tlpyuic - DEBUG - Output: c:\Users\Felhasználó\Documents\GitHub\PyQtGUITest\ui/Ui_mainwindow.py
+2019-01-24 10:44:57,829 - tlpyuic - DEBUG - Control output: c:\Users\Felhasználó\Documents\GitHub\PyQtGUITest\ui/mainwindow.py.txt
+2019-01-24 10:44:57,843 - tlpyuic - DEBUG - Exit program
+2019-01-24 10:47:29,477 - tlpyuic - DEBUG - Start program
+2019-01-24 10:47:29,477 - tlpyuic - DEBUG - Preview mode: True
+2019-01-24 10:47:29,481 - tlpyuic - DEBUG - Command: Windows>>c:\Python36\Scripts\pyuic5.exe -p c:\Users\Felhasználó\Documents\GitHub\PyQtGUITest\ui\MainWindow.ui
+2019-01-24 10:47:34,596 - tlpyuic - DEBUG - Input: c:\Users\Felhasználó\Documents\GitHub\PyQtGUITest\ui\MainWindow.ui
+2019-01-24 10:47:34,596 - tlpyuic - DEBUG - Output: c:\Users\Felhasználó\Documents\GitHub\PyQtGUITest\ui/Ui_mainwindow.py
+2019-01-24 10:47:34,596 - tlpyuic - DEBUG - Control output: c:\Users\Felhasználó\Documents\GitHub\PyQtGUITest\ui/mainwindow.py.txt
+2019-01-24 10:47:34,596 - tlpyuic - DEBUG - Exit program

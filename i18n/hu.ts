@@ -1,57 +1,71 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!DOCTYPE TS>
-<TS version="2.1" language="hu_HU">
+<!DOCTYPE TS><TS version="2.0">
 <context>
     <name>MainWindow</name>
     <message>
-        <location filename="../../../../../Felhaszn?l?/Documents/EricProjects/PyQtGUITest/ui/Ui_MainWindow.py" line="49"/>
+        <location filename="../../../../../Felhaszn?l?/Documents/GitHub/PyQtGUITest/ui/Ui_MainWindow.py" line="49"/>
         <source>MainWindow</source>
-        <translation>Fő ablak</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../../../Felhaszn?l?/Documents/EricProjects/PyQtGUITest/ui/Ui_MainWindow.py" line="50"/>
+        <location filename="../../../../../Felhaszn?l?/Documents/GitHub/PyQtGUITest/ui/Ui_MainWindow.py" line="50"/>
         <source>PushButton</source>
-        <translation>Gomb</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../../../Felhaszn?l?/Documents/EricProjects/PyQtGUITest/ui/Ui_MainWindow.py" line="51"/>
+        <location filename="../../../../../Felhaszn?l?/Documents/GitHub/PyQtGUITest/PyQt_quick_Test.py" line="80"/>
+        <source>RadioButton</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../../../Felhaszn?l?/Documents/GitHub/PyQtGUITest/PyQt_quick_Test.py" line="81"/>
+        <source>CheckBox</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../../../Felhaszn?l?/Documents/GitHub/PyQtGUITest/PyQt_quick_Test.py" line="82"/>
+        <source>TextLabel</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../../../Felhaszn?l?/Documents/GitHub/PyQtGUITest/ui/Ui_MainWindow.py" line="51"/>
         <source>File</source>
-        <translation>Fájl</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../../../Felhaszn?l?/Documents/EricProjects/PyQtGUITest/ui/Ui_MainWindow.py" line="52"/>
+        <location filename="../../../../../Felhaszn?l?/Documents/GitHub/PyQtGUITest/ui/Ui_MainWindow.py" line="52"/>
         <source>Tools</source>
-        <translation>Eszközök</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../../../Felhaszn?l?/Documents/EricProjects/PyQtGUITest/ui/Ui_MainWindow.py" line="53"/>
+        <location filename="../../../../../Felhaszn?l?/Documents/GitHub/PyQtGUITest/ui/Ui_MainWindow.py" line="53"/>
         <source>Help</source>
-        <translation>Súgó</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../../../Felhaszn?l?/Documents/EricProjects/PyQtGUITest/ui/Ui_MainWindow.py" line="54"/>
+        <location filename="../../../../../Felhaszn?l?/Documents/GitHub/PyQtGUITest/ui/Ui_MainWindow.py" line="54"/>
         <source>Quit</source>
-        <translation>Kilépés</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../../../Felhaszn?l?/Documents/EricProjects/PyQtGUITest/ui/Ui_MainWindow.py" line="55"/>
+        <location filename="../../../../../Felhaszn?l?/Documents/GitHub/PyQtGUITest/ui/Ui_MainWindow.py" line="55"/>
         <source>Settings...</source>
-        <translation>BEállítások...</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../../../Felhaszn?l?/Documents/EricProjects/PyQtGUITest/ui/Ui_MainWindow.py" line="56"/>
+        <location filename="../../../../../Felhaszn?l?/Documents/GitHub/PyQtGUITest/ui/Ui_MainWindow.py" line="56"/>
         <source>About...</source>
-        <translation>A programról...</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../../../Felhaszn?l?/Documents/EricProjects/PyQtGUITest/ui/mainwindow.py" line="38"/>
+        <location filename="../../../../../Felhaszn?l?/Documents/GitHub/PyQtGUITest/ui/mainwindow.py" line="57"/>
         <source>Confirmation</source>
-        <translation>Megerősítés</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../../../Felhaszn?l?/Documents/EricProjects/PyQtGUITest/ui/mainwindow.py" line="39"/>
+        <location filename="../../../../../Felhaszn?l?/Documents/GitHub/PyQtGUITest/ui/mainwindow.py" line="58"/>
         <source>Are you sure you want to exit the program?</source>
-        <translation>Biztosan ki akarsz lépni a programból?</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 </TS>

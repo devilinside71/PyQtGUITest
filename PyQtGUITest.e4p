@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE Project SYSTEM "Project-5.1.dtd">
 <!-- eric project file for project PyQtGUITest -->
-<!-- Saved: 2019-01-14, 06:39:13 -->
+<!-- Saved: 2019-01-14, 08:23:17 -->
 <!-- Copyright (C) 2019 Laszlo Tamas,  -->
 <Project version="5.1">
   <Language>en_US</Language>
@@ -15,6 +15,7 @@
   <TranslationsBinPath>i18n/</TranslationsBinPath>
   <Eol index="0"/>
   <Sources>
+    <Source>PyQt_quick_Test.py</Source>
     <Source>__init__.py</Source>
     <Source>pyqtguitest.py</Source>
     <Source>ui/Ui_MainWindow.py</Source>
